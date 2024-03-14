@@ -1,0 +1,2 @@
+# reset.scss
+Style reset
